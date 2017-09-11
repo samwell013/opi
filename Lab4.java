@@ -2,7 +2,7 @@
 public class Lab4 {
   public static void main(String[] args) {
   H a = new H();
-  H b = new C();
+  H b = new H();
   C c = new C();
   c.s31();
   b.s35();
