@@ -19,5 +19,4 @@ public class Lab4 {
   b.s22(c);
   }
 }
-previous : 17
-previous : 19
+previous : 20
