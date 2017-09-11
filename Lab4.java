@@ -2,7 +2,7 @@
 public class Lab4 {
   public static void main(String[] args) {
   H a = new H();
-  H b = new H();
+  H b = new C();
   C c = new C();
   c.s31();
   b.s35();
@@ -19,4 +19,4 @@ public class Lab4 {
   b.s22(c);
   }
 }
-previous : 9
+//previous : 9
