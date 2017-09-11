@@ -11,7 +11,7 @@ public class Lab4 {
   b.s36();
   b.s5();
   b.s39();
-  c.s261();
+  c.s26();
   a.s32();
   b.s20();
   c.s22(a);
@@ -19,3 +19,4 @@ public class Lab4 {
   b.s22(c);
   }
 }
+previous : 13
